@@ -11,6 +11,3 @@ Hi, I’m Ganesh<br>🔭 Working on real-time systems with WebRTC & scalable bac
 ![](https://streak-stats.demolab.com/?user=Ganesh-Code-Lives&theme=dark&hide_border=false)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ganesh-Code-Lives&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
