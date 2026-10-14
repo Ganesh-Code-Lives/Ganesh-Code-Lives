@@ -116,7 +116,7 @@
 
 > AI-powered content platform with intelligent generation and premium features.
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Code-Lives/)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Code-Lives/CortexAI)
 [![Live](https://img.shields.io/badge/LIVE_DEMO-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://cortexai-seven.vercel.app/)
 
 </td>
@@ -129,7 +129,7 @@
 
 > AI hiring panel that scores your resume from 4 perspectives — ATS, Recruiter, Engineer & Manager — then rewrites your bullets and generates interview prep.
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Code-Lives/)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Code-Lives/HireFlow)
 [![Live](https://img.shields.io/badge/LIVE_DEMO-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://hire-flow-swart-ten.vercel.app/)
 
 </td>
@@ -140,7 +140,7 @@
 
 > AI courtroom where two personas (Elon vs Buffett, etc.) debate your life decisions across 3 rounds, then a judge delivers the verdict.
 
-[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Code-Lives/)
+[![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Code-Lives/Dual-Mind)
 [![Live](https://img.shields.io/badge/LIVE_DEMO-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://example.com)
 
 </td>
