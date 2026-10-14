@@ -15,12 +15,11 @@
 ## `> whoami`
 
 > **GANESH MAMIDISETHY**
-> Software Engineer · Mumbai, India
+> MCA Student · VESIT, Mumbai
 >
-> I engineer real-time systems — the kind where a 200ms delay means someone's video call just froze. WebRTC, scalable backends, distributed architectures. I'd rather debug a race condition at 2AM than center a div.
+> A student at VESIT, focused on learning, building projects, and turning ideas into reality.
 >
-> Currently deep-diving into **DSA**, **system design**, **Redis** & **Kafka**.
-> Open to remote roles, off-campus opportunities, and anything that involves making backend systems faster and more reliable.
+> Currently exploring new technologies, improving my skills, and building things along the way.
 >
 > `STATUS:` Available for hire
 > `LOCATION:` Mumbai · Remote Worldwide
