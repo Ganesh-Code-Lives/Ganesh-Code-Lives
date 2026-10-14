@@ -124,21 +124,21 @@
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ Project Name 3
-`Flutter · Node.js · MongoDB`
+### ⚡ HireFlow
+`React · AI Agents · Gemini API`
 
-> A brief one-liner about what this project does and why it's cool.
+> AI hiring panel that scores your resume from 4 perspectives — ATS, Recruiter, Engineer & Manager — then rewrites your bullets and generates interview prep.
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Code-Lives/)
-[![Live](https://img.shields.io/badge/LIVE_DEMO-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://example.com)
+[![Live](https://img.shields.io/badge/LIVE_DEMO-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://hire-flow-swart-ten.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Project Name 4
-`Python · FastAPI · Docker`
+### ⚡ DualMind
+`React · Claude API · CSS`
 
-> A brief one-liner about what this project does and why it's cool.
+> AI courtroom where two personas (Elon vs Buffett, etc.) debate your life decisions across 3 rounds, then a judge delivers the verdict.
 
 [![Repo](https://img.shields.io/badge/VIEW_REPO-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ganesh-Code-Lives/)
 [![Live](https://img.shields.io/badge/LIVE_DEMO-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://example.com)
