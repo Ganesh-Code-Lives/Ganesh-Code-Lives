@@ -1,3 +1,14 @@
+![Header](https://capsule-render.vercel.app/api?type=rect&color=ff003c&height=4&section=header)
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bangers&size=58&letterSpacing=4px&duration=4000&pause=6000&color=FF003C&center=true&vCenter=true&width=860&height=80&lines=BALAJI+THUKUNTALA)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=4000&pause=6000&color=FFFFFF&center=true&vCenter=true&width=860&height=36&lines=Software+Engineer+%7C+Android+%7C+AI;Ex-Infosys+%7C+Ex-Turing+%7C+Open+to+Remote+%26+Off-Campus)](https://git.io/typing-svg)
+
+![Open to Work](https://img.shields.io/badge/⚡_MUMBAI_·_OPEN_TO_REMOTE_ROLES-ff003c?style=for-the-badge&logoColor=white)
+
+</div>
 # 💫 About Me:
 Hi, I’m Ganesh<br>🔭 Working on real-time systems with WebRTC & scalable backends<br>👯 Open to collaborating on backend / distributed systems projects<br>🤝 Need help with system design, scaling & DevOps<br>🌱 Learning DSA, system design, Redis & Kafka<br>💬 Ask me about WebRTC, backend, and real-time architectures<br>⚡ Prefer solving backend problems over UI work
 
