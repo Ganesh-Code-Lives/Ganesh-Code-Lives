@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bangers&size=58&letterSpacing=4px&duration=4000&pause=6000&color=FF003C&center=true&vCenter=true&width=860&height=80&lines=Ganesh+Mamidisethy)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=4000&pause=6000&color=FFFFFF&center=true&vCenter=true&width=860&height=36&lines=%3E+Backend+Architect+%7C+WebRTC+Engineer+%7C+System+Builder;%3E+Building+real-time+infra+that+doesn't+break+at+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=4000&pause=6000&color=888888&center=true&vCenter=true&width=860&height=36&lines=%3E+Backend+Architect+%7C+WebRTC+Engineer+%7C+System+Builder;%3E+Building+real-time+infra+that+doesn't+break+at+scale)](https://git.io/typing-svg)
 
 ![Open to Work](https://img.shields.io/badge/⚡_MUMBAI_·_OPEN_TO_REMOTE-ff003c?style=flat-square&logoColor=white)
 
