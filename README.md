@@ -6,15 +6,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=4000&pause=6000&color=FFFFFF&center=true&vCenter=true&width=860&height=36&lines=%3E+Backend+Architect+%7C+WebRTC+Engineer+%7C+System+Builder;%3E+Building+real-time+infra+that+doesn't+break+at+scale)](https://git.io/typing-svg)
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ganesh-Code-Lives&color=ff003c&style=flat-square&label=PROFILE+VIEWS)
-&nbsp;&nbsp;
 ![Open to Work](https://img.shields.io/badge/⚡_MUMBAI_·_OPEN_TO_REMOTE-ff003c?style=flat-square&logoColor=white)
 
 </div>
-
-<br>
 
 ---
 
